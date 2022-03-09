@@ -1,6 +1,5 @@
 library(dash)
 library(dashBootstrapComponents)
-library(dashCoreComponents)
 library(ggplot2)
 library(tidyverse)
 library(here)
